@@ -12,7 +12,7 @@ h1 {
     color: orangered;
 }
 
-section {
+.abc {
     display: flex;
     margin-bottom: 120px;
     ;
@@ -45,4 +45,47 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.bcd {
+    display: flex;
+    padding: 10%;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.xyz {
+    width: 40%;
+    padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px red;
+    border-radius: 10px;
+}
+
+#one {
+    border-left: 7px solid tomato;
+}
+
+#two {
+    border-left: 7px solid blue;
+}
+
+.exp {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.x {
+    color: red;
+}
+
+footer p {
+    text-align: center;
+    color: red;
+    font-weight: bolder;
 }
