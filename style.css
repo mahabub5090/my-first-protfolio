@@ -29,9 +29,9 @@ h1 {
 
 .link {
     text-decoration: none;
-    background-image: linear-gradient(orange tomato);
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
-    color: white;
+    color: rgb(226, 212, 15);
     font-weight: 900;
     border-radius: 5px;
 }
